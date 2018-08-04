@@ -1,0 +1,4 @@
+<br />
+<b>Notice</b>:  Undefined variable: hostOriginal in <b>C:\xampp\htdocs\member\reget.php</b> on line <b>61</b><br />
+<br />
+<b>Notice</b>:  Undefined index:  in <b>C:\xampp\htdocs\member\reget.php</b> on line <b>61</b><br />
